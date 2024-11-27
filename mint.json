@@ -49,7 +49,7 @@
     },
     {
       "name": "API Reference",
-      "openapi": "https://developers.calamari.io/assets/api.json",
+      "openapi": "https://e497-185-50-50-209.ngrok-free.app/index.yaml",
       "url": "api-reference",
       "icon": "square-terminal"
     }
