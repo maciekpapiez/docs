@@ -46,6 +46,12 @@
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "API Reference",
+      "openapi": "/api-reference/index.yaml",
+      "url": "api-reference",
+      "icon": "square-terminal"
     }
   ],
   "navigation": [
@@ -72,14 +78,6 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
